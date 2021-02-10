@@ -1,0 +1,6 @@
+decorator==4.4.2
+networkx==2.5
+numpy==1.19.2
+pygraphviz==1.6
+rope==0.18.0
+scipy==1.6.0
